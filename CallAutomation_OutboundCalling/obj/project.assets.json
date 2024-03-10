@@ -710,9 +710,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\susan\\Documents\\FAIV\\faiv_outbound\\CallAutomation_OutboundCalling\\myapp.csproj",
-      "projectName": "myapp",
-      "projectPath": "c:\\Users\\susan\\Documents\\FAIV\\faiv_outbound\\CallAutomation_OutboundCalling\\myapp.csproj",
+      "projectUniqueName": "c:\\Users\\susan\\Documents\\FAIV\\faiv_outbound\\CallAutomation_OutboundCalling\\CallAutomation_OutboundCalling.csproj",
+      "projectName": "CallAutomation_OutboundCalling",
+      "projectPath": "c:\\Users\\susan\\Documents\\FAIV\\faiv_outbound\\CallAutomation_OutboundCalling\\CallAutomation_OutboundCalling.csproj",
       "packagesPath": "C:\\Users\\susan\\.nuget\\packages\\",
       "outputPath": "c:\\Users\\susan\\Documents\\FAIV\\faiv_outbound\\CallAutomation_OutboundCalling\\obj\\",
       "projectStyle": "PackageReference",
