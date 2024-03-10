@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "UwGpq4dQsSVyWScTtW4B1Gv3N8jIMa3dkx9y/vQfbAk=",
-  "Source": "CallAutomation_OutboundCalling",
-  "BasePath": "_content/CallAutomation_OutboundCalling",
+  "Hash": "cDAnPk+GVc0ki1G1PYm+Vx1tRWA0F/NHS4sDWlU8hbo=",
+  "Source": "myapp",
+  "BasePath": "_content/myapp",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
