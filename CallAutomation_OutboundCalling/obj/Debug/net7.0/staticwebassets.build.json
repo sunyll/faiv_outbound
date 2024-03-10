@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UwGpq4dQsSVyWScTtW4B1Gv3N8jIMa3dkx9y/vQfbAk=",
+  "Source": "CallAutomation_OutboundCalling",
+  "BasePath": "_content/CallAutomation_OutboundCalling",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
