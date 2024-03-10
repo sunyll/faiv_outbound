@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\susan\\Documents\\FAIV\\new_test\\CallAutomation_OutboundCalling\\CallAutomation_OutboundCalling.csproj": {}
+    "c:\\Users\\susan\\Documents\\FAIV\\faiv_outbound\\CallAutomation_OutboundCalling\\CallAutomation_OutboundCalling.csproj": {}
   },
   "projects": {
-    "C:\\Users\\susan\\Documents\\FAIV\\new_test\\CallAutomation_OutboundCalling\\CallAutomation_OutboundCalling.csproj": {
+    "c:\\Users\\susan\\Documents\\FAIV\\faiv_outbound\\CallAutomation_OutboundCalling\\CallAutomation_OutboundCalling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\susan\\Documents\\FAIV\\new_test\\CallAutomation_OutboundCalling\\CallAutomation_OutboundCalling.csproj",
+        "projectUniqueName": "c:\\Users\\susan\\Documents\\FAIV\\faiv_outbound\\CallAutomation_OutboundCalling\\CallAutomation_OutboundCalling.csproj",
         "projectName": "CallAutomation_OutboundCalling",
-        "projectPath": "C:\\Users\\susan\\Documents\\FAIV\\new_test\\CallAutomation_OutboundCalling\\CallAutomation_OutboundCalling.csproj",
+        "projectPath": "c:\\Users\\susan\\Documents\\FAIV\\faiv_outbound\\CallAutomation_OutboundCalling\\CallAutomation_OutboundCalling.csproj",
         "packagesPath": "C:\\Users\\susan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\susan\\Documents\\FAIV\\new_test\\CallAutomation_OutboundCalling\\obj\\",
+        "outputPath": "c:\\Users\\susan\\Documents\\FAIV\\faiv_outbound\\CallAutomation_OutboundCalling\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\susan\\AppData\\Roaming\\NuGet\\NuGet.Config"

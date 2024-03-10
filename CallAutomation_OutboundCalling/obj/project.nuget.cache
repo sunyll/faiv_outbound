@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4nW0PVG5ve8iSS/6CwCVlQupok19a+GG3HzQvZ0YDHMWUlpkgGBl7A/QGAITlHsM/CgXfJbVM1uC5v+nrGfp1Q==",
+  "dgSpecHash": "aDD3VWhxxtF1hkayQTbxdei0z0DWFvsV7k1xlxaohrVK24SAGCe5nSzAI/wXQLD8FBQSL+MjQZoDmm9M5rPBSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\susan\\Documents\\FAIV\\new_test\\CallAutomation_OutboundCalling\\CallAutomation_OutboundCalling.csproj",
+  "projectFilePath": "c:\\Users\\susan\\Documents\\FAIV\\faiv_outbound\\CallAutomation_OutboundCalling\\CallAutomation_OutboundCalling.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\susan\\.nuget\\packages\\azure.communication.callautomation\\1.1.0\\azure.communication.callautomation.1.1.0.nupkg.sha512",
     "C:\\Users\\susan\\.nuget\\packages\\azure.communication.common\\1.2.1\\azure.communication.common.1.2.1.nupkg.sha512",

@@ -9,19 +9,19 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 // Your ACS resource connection string
-var acsConnectionString = "CONNECTION_STRING";
+var acsConnectionString = "COMMUNICATION_SERVICE_STRING_OUTBOUND";
 
 // Your ACS resource phone number will act as source number to start outbound call
-var acsPhonenumber = "NUMBER";
+var acsPhonenumber = "OUTBOUND_CALLING_PHONE_NUMBER";
 
 // Target phone number you want to receive the call.
-var targetPhonenumber = "TARGET NUMBER";
+var targetPhonenumber = "TARGET_PHONE_NUMBER";
 
 // Base url of the app
-var callbackUriHost = "ADD CONNECTION";
+var callbackUriHost = "BASE_URL_OUTBOUND_APP";
 
 // Your cognitive service endpoint
-var cognitiveServiceEndpoint = "END_POINT";
+var cognitiveServiceEndpoint = "COGNITIVE_SERVICE_ENDPOINT";
 
 // text to play
 const string SpeechToTextVoice = "en-US-NancyNeural";
